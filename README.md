@@ -59,21 +59,6 @@ Copy code
 
 This project aims to detect fake news using various data analysis and machine learning techniques. It includes data preprocessing, exploratory data analysis (EDA), feature engineering, model building, and evaluation.
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Dataset](#dataset)
-3. [Getting Started](#getting-started)
-4. [Project Structure](#project-structure)
-5. [Data Preprocessing](#data-preprocessing)
-6. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-7. [Feature Engineering](#feature-engineering)
-8. [Model Building](#model-building)
-9. [Evaluation Metrics](#evaluation-metrics)
-10. [Results](#results)
-11. [Conclusion](#conclusion)
-12. [Contributing](#contributing)
-13. [License](#license)
-
 ## Introduction
 Fake news detection is an essential task in natural language processing, helping prevent the spread of misinformation. This project focuses on predicting the authenticity of news articles using machine learning models.
 
