@@ -1,4 +1,3 @@
-# NLP  
 # Fake and True News Detection Project
 
 This project aims to detect fake and true news using various data analysis and machine learning techniques. It includes data preprocessing, exploratory data analysis (EDA), feature engineering, model building, and evaluation.
